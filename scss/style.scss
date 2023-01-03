@@ -1,0 +1,8 @@
+@import "nullstyle.scss";
+@import "ibg.scss";
+@import "footer.scss";
+
+.wrapper{min-height: 100%;overflow: hidden;display: flex;flex-direction: column;}
+.page{flex: 1 1 auto;}
+
+
